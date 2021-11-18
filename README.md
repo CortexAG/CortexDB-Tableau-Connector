@@ -1,6 +1,6 @@
 # CortexDB-Tableau-Connector
 
-This is sample prototype for Tableau WDC CortexDB Connector
+This is a sample prototype for a Tableau WDC CortexDB Connector
 
 This prototype is build with the Tableau WDC SDK v2.3
 
